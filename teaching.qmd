@@ -1,0 +1,15 @@
+---
+title: "Teaching"
+---
+
+## Consumer Behavior
+
+A course on how consumers think, feel, decide, and buy: perception, motivation,
+attitudes, decision making, and social and cultural influences.
+
+<!-- To share a syllabus, put the PDF in the files/ folder and link it like this: -->
+<!-- [Syllabus (PDF)](files/syllabus.pdf) -->
+
+## Other courses
+
+- Course name, Institution, Semester Year

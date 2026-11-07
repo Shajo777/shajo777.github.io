@@ -1,0 +1,35 @@
+---
+title: "Gustavo Gomez"
+subtitle: "The Graduate Center, CUNY"
+image: profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 14em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:TavoBotero@pm.me
+    - icon: file-earmark-text
+      text: CV
+      href: cv.qmd
+    - icon: github
+      text: GitHub
+      href: https://github.com/ggtavo
+---
+
+<!-- Replace this paragraph with your own bio. -->
+I am a researcher and instructor at the Graduate Center, City University of New York.
+My work focuses on consumer behavior. I teach courses on consumer behavior and marketing.
+
+## Research interests
+
+- Interest one
+- Interest two
+- Interest three
+
+## Education
+
+**PhD, Field** · Institution · Year
+
+**MA/MBA, Field** · Institution · Year

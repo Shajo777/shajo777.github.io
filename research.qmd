@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+## Publications
+
+- Author, A., & **Gomez, G.** (Year). Title of the paper. *Journal Name*, Volume(Issue), pages. [PDF](files/paper1.pdf)
+
+## Working papers
+
+- **Gomez, G.** (Year). Title of the working paper.
+
+## Presentations
+
+- Title of talk. Conference name, City, Year.
