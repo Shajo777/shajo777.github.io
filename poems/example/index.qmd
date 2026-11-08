@@ -1,0 +1,11 @@
+---
+title: "Example title"
+description: "A one-line teaser that shows in the list."
+date: 2026-11-07
+categories: []
+draft: true
+---
+
+This is a template. Copy this whole "example" folder, rename the copy
+(e.g. "my-first-piece"), write your piece below the --- lines, and change
+"draft: true" to "draft: false" (or delete that line) to publish it.

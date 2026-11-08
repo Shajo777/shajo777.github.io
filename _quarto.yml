@@ -9,10 +9,12 @@ website:
     right:
       - href: index.qmd
         text: About
-      - href: research.qmd
-        text: Research
-      - href: teaching.qmd
-        text: Teaching
+      - href: poems/index.qmd
+        text: Poems
+      - href: short-stories/index.qmd
+        text: Short Stories
+      - href: essays/index.qmd
+        text: Essays
       - href: contact.qmd
         text: Contact
   page-footer:
