@@ -5,6 +5,7 @@ project:
 website:
   title: "G.A. Botero"
   site-url: "https://ggtavo.github.io"
+  draft-mode: gone
   navbar:
     right:
       - href: index.qmd
