@@ -16,6 +16,15 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/ggtavo
+    - icon: pen
+      text: Vocal
+      href: https://vocal.media/authors/g-a-botero-h2e7zx0abo
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/g-botero.bsky.social
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/g.a.botero/
 ---
 
 <!-- Replace this paragraph with your own bio. -->
