@@ -7,24 +7,18 @@ about:
   image-shape: round
   image-width: 14em
   links:
-    - icon: envelope
-      text: Email
-      href: mailto:TavoBotero@pm.me
-    - icon: file-earmark-text
-      text: CV
-      href: cv.qmd
     - icon: github
-      text: GitHub
       href: https://github.com/ggtavo
+      aria-label: GitHub
     - icon: pen
-      text: Vocal
       href: https://vocal.media/authors/g-a-botero-h2e7zx0abo
+      aria-label: Vocal
     - icon: bluesky
-      text: Bluesky
       href: https://bsky.app/profile/g-botero.bsky.social
+      aria-label: Bluesky
     - icon: instagram
-      text: Instagram
       href: https://www.instagram.com/g.a.botero/
+      aria-label: Instagram
 ---
 
 <!-- Replace this paragraph with your own bio. -->
