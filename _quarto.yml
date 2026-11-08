@@ -16,7 +16,17 @@ website:
       - href: cv.qmd
         text: CV
   page-footer:
-    center: "© 2026 G.A. Botero · Built with [Quarto](https://quarto.org)"
+    left: "© 2026 G.A. Botero · Built with [Quarto](https://quarto.org)"
+    right:
+      - icon: pen
+        href: https://vocal.media/authors/g-a-botero-h2e7zx0abo
+        aria-label: Vocal
+      - icon: bluesky
+        href: https://bsky.app/profile/g-botero.bsky.social
+        aria-label: Bluesky
+      - icon: instagram
+        href: https://www.instagram.com/g.a.botero/
+        aria-label: Instagram
 
 format:
   html:
