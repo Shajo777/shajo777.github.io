@@ -1,0 +1,24 @@
+---
+title: "Contact"
+---
+
+Interested in my writing, or just want to say hi? Send me a message and I'd love to hear from you!
+
+```{=html}
+<form class="contact-form" action="https://formspree.io/f/xbggeqzq" method="POST" accept-charset="utf-8">
+  <div class="mb-3">
+    <label for="full-name" class="form-label">Full name</label>
+    <input type="text" class="form-control" name="name" id="full-name" placeholder="First and last" required>
+  </div>
+  <div class="mb-3">
+    <label for="email-address" class="form-label">Email address</label>
+    <input type="email" class="form-control" name="_replyto" id="email-address" placeholder="you@example.com" required>
+  </div>
+  <div class="mb-3">
+    <label for="message" class="form-label">Message</label>
+    <textarea class="form-control" rows="6" name="message" id="message" placeholder="Your message" required></textarea>
+  </div>
+  <input type="hidden" name="_subject" value="Message from your website">
+  <button type="submit" class="btn btn-primary">Send message</button>
+</form>
+```
